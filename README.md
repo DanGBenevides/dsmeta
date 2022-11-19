@@ -1,4 +1,4 @@
-<h1 align="center"><img src="./frontend/src/assets/img/banner.svg" width="50"><b> DSMeta</b></h1>
+<h1 align="center"><b> DSMeta</b></h1>
 
 <div align="center">
 
